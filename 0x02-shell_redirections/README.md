@@ -1,1 +1,1 @@
-Write a script to display smiley
+Display the content of a file
