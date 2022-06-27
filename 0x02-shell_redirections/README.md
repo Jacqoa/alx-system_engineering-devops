@@ -1,1 +1,1 @@
-Script that prints Hello world
+Script that display smiley
