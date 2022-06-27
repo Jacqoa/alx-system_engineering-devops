@@ -1,1 +1,1 @@
-Write a script that display smiley
+Write a script to display smiley
